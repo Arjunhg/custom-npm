@@ -1,5 +1,5 @@
 {
-  "name": "pack-to-ui",
+  "name": "builder-ui",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.ts",
